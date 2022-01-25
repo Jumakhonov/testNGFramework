@@ -1,0 +1,30 @@
+2022-01-24 17:24:50,825 [main] INFO logger_File - Hotel Page is opened
+2022-01-24 17:24:54,833 [main] INFO logger_File - Hotel Page is opened
+2022-01-24 17:24:57,732 [main] INFO logger_File - Hotel Page is opened
+2022-01-24 17:26:38,300 [main] INFO logger_File - Hotel Page is opened
+2022-01-24 17:26:41,375 [main] INFO logger_File - Hotel Page is opened
+2022-01-24 17:26:44,248 [main] INFO logger_File - Hotel Page is opened
+2022-01-24 17:27:56,452 [main] INFO logger_File - Hotel Page is opened
+2022-01-24 17:27:57,715 [main] INFO logger_File - user clicked on Sign in
+2022-01-24 17:27:58,523 [main] INFO logger_File - user entered email cali@tekschol.us
+2022-01-24 17:27:58,524 [main] INFO logger_File - user entered password cali123
+2022-01-24 17:29:31,213 [main] INFO logger_File - Hotel Page is opened
+2022-01-24 17:29:31,650 [main] INFO logger_File - user clicked on Sign in
+2022-01-24 17:29:32,392 [main] INFO logger_File - user entered email cali@tekschol.us
+2022-01-24 17:29:32,393 [main] INFO logger_File - user entered password cali123
+2022-01-24 17:30:18,115 [main] INFO logger_File - Hotel Page is opened
+2022-01-24 17:30:18,498 [main] INFO logger_File - user clicked on Sign in
+2022-01-24 17:30:19,263 [main] INFO logger_File - user entered email cali@tekschol.us
+2022-01-24 17:30:19,263 [main] INFO logger_File - user entered password cali123
+2022-01-24 17:31:59,025 [main] INFO logger_File - Hotel Page is opened
+2022-01-24 17:31:59,400 [main] INFO logger_File - user clicked on Sign in
+2022-01-24 17:32:00,206 [main] INFO logger_File - user entered email cali@tekschool.us
+2022-01-24 17:32:00,207 [main] INFO logger_File - user entered password cali123
+2022-01-24 17:32:03,516 [main] INFO logger_File - Hotel Page is opened
+2022-01-24 17:32:03,878 [main] INFO logger_File - user clicked on Sign in
+2022-01-24 17:32:04,667 [main] INFO logger_File - user entered email va@tekschool.us
+2022-01-24 17:32:04,668 [main] INFO logger_File - user entered password va123
+2022-01-24 17:32:07,721 [main] INFO logger_File - Hotel Page is opened
+2022-01-24 17:32:08,015 [main] INFO logger_File - user clicked on Sign in
+2022-01-24 17:32:08,717 [main] INFO logger_File - user entered email ny@tekschool.us
+2022-01-24 17:32:08,718 [main] INFO logger_File - user entered password ny123

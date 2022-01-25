@@ -15,9 +15,10 @@
 			<!-- class name="testNG.TestNGGroups" /> -->
 			<!-- class name="testNG.DataProviderConcept" /> -->
 			<!-- <class name = "testNG.TestNGBasicTestCase"/> -->
-			<class name="testNG.SecondTestClass" />
+			<!--  class name="testNG.SecondTestClass" />
 			<class name="testNG.ChangePassword_HappyPath" />
-			<class name="testNG.TestParametersInTestNG" />
+			<class name="testNG.TestParametersInTestNG" />-->
+			<class name ="tests.DataDrivenTesting" />
 		</classes>
 	</test>
 </suite>
